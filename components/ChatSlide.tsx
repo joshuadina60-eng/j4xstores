@@ -46,7 +46,7 @@ export default function ChatSlide() {
         </button>
 
         <iframe
-          src="https://dinaaicom.vercel.app"
+          src="https://j4xstores.vercel.app"
           title="Chat"
           frameBorder={0}
           sandbox="allow-same-origin allow-scripts allow-popups allow-forms"
